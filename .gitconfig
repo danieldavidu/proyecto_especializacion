@@ -1,0 +1,7 @@
+[user]
+	name = danieldavidu
+	email = danieldavidu@gmail.com
+[merge]
+	tool = meld
+[diff]
+	tool = meld
